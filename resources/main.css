@@ -1,0 +1,19 @@
+a:link {text-decoration:none}
+a:visited {text-decoration:none; color:#a13c88}
+a:active {text-decoration:none}
+a:hover {text-decoration:none; color:#ef5579}
+body {background-color:white}
+
+.active {font-weight:bold}
+.inactive {color:gray}
+
+.header {font-weight:bold; color:#ef5579}
+.section {margin:10px; max-width:960px}
+
+td {padding:7px}
+td div {padding:7px}
+
+li {margin:6px}
+ul {list-style: square}
+
+html { font-family: "Arial" }
