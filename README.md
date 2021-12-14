@@ -1,7 +1,3 @@
----
-layout: null
----
-
 <head>
 <title>Anna Huang</title>
 <link rel="stylesheet" type="text/css" href="resources/main.css">
